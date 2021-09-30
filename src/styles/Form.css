@@ -1,0 +1,36 @@
+form {
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.inp {
+    padding: 10px;
+    margin: 10px;
+}
+
+.button {
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+
+
+.button input {
+    font-size: 15px;
+    border-radius: 6px;
+    background-color: #F0A500;
+    transition: all .5s;
+}
+
+.button input:hover {
+    background-color: black;
+    color: white
+}

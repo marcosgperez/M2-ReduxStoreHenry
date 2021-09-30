@@ -1,0 +1,35 @@
+.cuerpo {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.cuerpo h1 {
+    background-color: #F0A500;
+    border-radius:50%;
+    padding: 30px 50px;
+    margin: 30px;
+    display: inline-block;
+}
+
+.btn {
+    background-color: #F0A500;
+    border-radius: 5px;
+    font-size: 20px;
+    transition: all .6s;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white
+}
+
+.personas {
+    border: 5px solid black;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}

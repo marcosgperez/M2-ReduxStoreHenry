@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+button {
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 20px;
+    font-family: 'Inconsolata', monospace;
+}

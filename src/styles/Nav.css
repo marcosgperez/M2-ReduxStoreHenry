@@ -1,0 +1,25 @@
+.logo{
+    max-width: 200px;
+}
+
+.navigation li {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 20px 0;
+    transition: color .5s;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: #F0A500;
+}
+
+.navigation li:hover{
+    color: white;
+    border-bottom: 1px solid white
+}
